@@ -1,1 +1,1 @@
-# aramir-training
+# Aramir training
